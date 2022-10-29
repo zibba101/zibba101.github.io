@@ -2,32 +2,29 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
+<img src="images/ERD.png?raw=true"/>
+
+
+---
+[Churn Data Cleaning](https://github.com/zibba101/Churn_Data_Cleaning)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Exploratory Data Analysis](https://github.com/zibba101/Churn_Exploratory_Analysis)
+<img src="heatmap.png?raw=true"/>
+
 
 ---
+[Telecommunications Predictive Modeling](https://github.com/zibba101/Telecom_Predictive_Modeling)
+<img src="pred.png?raw=true"/>
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
-
-
+[Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
+<img src="datamining.png?raw=true"/>
 
 
 ---
