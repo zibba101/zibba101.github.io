@@ -4,7 +4,7 @@
 
 
 [Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
-<img src="images/ERD.png?raw=true"/>
+<img src="images/churn ERD.png?raw=true"/>
 
 
 ---
