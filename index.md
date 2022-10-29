@@ -5,7 +5,8 @@
 
 
 [Telecom vs Telco Tableau Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/D210Book2/Analysis)
-<img src="images/churn ERD.png?raw=true" width="400" height="500"/>
+<img src="images/Intro.png?raw=true" width="400" height="500"/>
+
 
 ---
 
