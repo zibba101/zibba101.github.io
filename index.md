@@ -5,31 +5,31 @@
 
 
 [Telecom vs Telco Tableau Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/D210Book2/Analysis)
-<img src="images/Intro.png?raw=true" width="400" height="500"/>
+<img src="images/Intro.png?raw=true" width="600" height="600"/>
 
 
 ---
 
 
 [Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
-<img src="images/intro.png?raw=true" width="400" 
+<img src="images/churn ERD.png?raw=true" width="500" 
      height="500"/>
 
 
 ---
 [Churn Data Cleaning](https://github.com/zibba101/Churn_Data_Cleaning)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="400" height="500"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="500" height="500"/>
 
 
 ---
 [Exploratory Data Analysis](https://github.com/zibba101/Churn_Exploratory_Analysis)
-<img src="images/heatmap.png?raw=true" width="400" 
+<img src="images/heatmap.png?raw=true" width="500" 
      height="500"/>
 
 
 ---
 [Telecommunications Predictive Modeling](https://github.com/zibba101/Telecom_Predictive_Modeling)
-<img src="images/pred.png?raw=true" width="400" 
+<img src="images/pred.png?raw=true" width="500" 
      height="500"/>
 
 
