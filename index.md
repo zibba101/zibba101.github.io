@@ -14,17 +14,17 @@
 
 ---
 [Exploratory Data Analysis](https://github.com/zibba101/Churn_Exploratory_Analysis)
-<img src="heatmap.png?raw=true"/>
+<img src="images/heatmap.png?raw=true"/>
 
 
 ---
 [Telecommunications Predictive Modeling](https://github.com/zibba101/Telecom_Predictive_Modeling)
-<img src="pred.png?raw=true"/>
+<img src="images/pred.png?raw=true"/>
 
 
 ---
 [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
-<img src="datamining.png?raw=true"/>
+<img src="images/datamining.png?raw=true"/>
 
 
 ---
