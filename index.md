@@ -10,8 +10,7 @@
 
 ---
 [Churn Data Cleaning](https://github.com/zibba101/Churn_Data_Cleaning)
-<img src="images/dummy_thumbnail.jpg?raw=true"width="400" 
-     height="500"/>
+<img src="images/dummy_thumbnail.jpg?raw=true" width="400" height="500"/>
 
 
 ---
