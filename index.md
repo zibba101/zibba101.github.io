@@ -2,7 +2,12 @@
 
 
 ---
+### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
 
+
+
+
+---
 
 ### [Telecom vs Telco Tableau Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/D210Book2/Analysis)
 
@@ -13,17 +18,21 @@
 ### [Revenue Forecast - Time Series](https://github.com/zibba101/Revenue_Forecast_TimeSeries)
 
 
+
 ---
 
 ### [Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
+
 
 
 ---
 ### [Churn Data Cleaning](https://github.com/zibba101/Churn_Data_Cleaning)
 
 
+
 ---
 ### [Exploratory Data Analysis](https://github.com/zibba101/Churn_Exploratory_Analysis)
+
 
 
 ---
