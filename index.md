@@ -4,7 +4,9 @@
 ---
 ### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
 
+---
 
+### [Retail Inventory Analysis - Tableau](shorturl.at/iswK2)
 
 
 ---
