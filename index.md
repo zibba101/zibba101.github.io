@@ -4,14 +4,11 @@
 ---
 ### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
 
+
+
 ---
 
 ### [Retail Inventory Analysis - Tableau](shorturl.at/iswK2)
-
-
----
-
-### [Telecom vs Telco Tableau Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/D210Book2/Analysis)
 
 
 
@@ -24,6 +21,11 @@
 ---
 
 ### [Cross-Sell Prediction of Auto Insurance to Health Insurance Customers](https://github.com/zibba101/Cross-Sell-Prediction-Health-Auto-Insurance)
+
+
+
+---
+### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
 
 
 
@@ -50,9 +52,8 @@
 
 
 ---
-### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
 
-
+### [Telecom vs Telco Tableau Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/D210Book2/Analysis)
 
 
 ---
