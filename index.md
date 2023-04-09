@@ -4,51 +4,48 @@
 ---
 ### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
 
-
+<img src="images/Sandy_Bus-41_Single-04.jpg?raw=true"/>
 
 ---
 
 ### [Retail Inventory Analysis - Tableau](shorturl.at/iswK2)
 
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### [Revenue Forecast - Time Series](https://github.com/zibba101/Revenue_Forecast_TimeSeries)
 
-
+<img src="images/20945567.jpg?raw=true"/>
 
 ---
 
 ### [Cross-Sell Prediction of Auto Insurance to Health Insurance Customers](https://github.com/zibba101/Cross-Sell-Prediction-Health-Auto-Insurance)
 
-
+<img src="images/contextualad_4.jpg?raw=true"/>
 
 ---
 ### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
 
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### [Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
+#Other Projects
 
+### [Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
 
 
 ---
 ### [Churn Data Cleaning](https://github.com/zibba101/Churn_Data_Cleaning)
 
 
-
 ---
 ### [Exploratory Data Analysis](https://github.com/zibba101/Churn_Exploratory_Analysis)
 
 
-
-
 ---
 ### [Telecommunications Predictive Modeling](https://github.com/zibba101/Telecom_Predictive_Modeling)
-
 
 
 ---
