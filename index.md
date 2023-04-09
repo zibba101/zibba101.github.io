@@ -4,7 +4,7 @@
 ---
 ### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
 
-<img src="images/Sandy_Bus-41_Single-04.jpg?raw=true"/>
+<img src="images/Sandy_Bus.jpg?raw=true"/>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### [Cross-Sell Prediction of Auto Insurance to Health Insurance Customers](https://github.com/zibba101/Cross-Sell-Prediction-Health-Auto-Insurance)
 
-<img src="images/Sandy_Bus-41_Single-04.jpg?raw=true"/>
+<img src="images/Sandy_Bus.jpg?raw=true"/>
 
 ---
 ### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
