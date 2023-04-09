@@ -10,7 +10,7 @@
 
 ### [Retail Inventory Analysis - Tableau](shorturl.at/iswK2)
 
-<img src="images/contextualad_4.jpg?raw=true"/>
+<img src="images/contextualad_4.png?raw=true"/>
 
 ---
 
