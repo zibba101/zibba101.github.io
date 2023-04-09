@@ -27,7 +27,7 @@
 ---
 ### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
 
-<img src="images/contextualad_4.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
