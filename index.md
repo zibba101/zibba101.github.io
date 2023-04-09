@@ -10,7 +10,7 @@
 
 ### [Retail Inventory Analysis - Tableau](shorturl.at/iswK2)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/contextualad_4.jpg?raw=true"/>
 
 ---
 
@@ -22,12 +22,12 @@
 
 ### [Cross-Sell Prediction of Auto Insurance to Health Insurance Customers](https://github.com/zibba101/Cross-Sell-Prediction-Health-Auto-Insurance)
 
-<img src="images/contextualad_4.jpg?raw=true"/>
+<img src="images/Sandy_Bus-41_Single-04.jpg?raw=true"/>
 
 ---
 ### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/contextualad_4.jpg?raw=true"/>
 
 ---
 
