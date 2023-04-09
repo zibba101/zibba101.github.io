@@ -2,9 +2,11 @@
 title: Andraine Wallace # your name (or website title) here
 logo: "/images/fpmg.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Professional with over six years of experience in project management, data analytics, and business intelligence. I am a skilled professional with a strong educational background, including an MS in Data Analytics and a Bachelors degree in Business IT Management. As an Assets Protection Manager at Target Corporation, I have exceeded district goals, led successful business status and safety meetings, and developed a strong talent pipeline. My technical skills include SQL, Python, Machine Learning, Project Management, Microsoft Office, Tableau, Jupyter Lab, Google Colab, and GitHub, with experience in business intelligence. Furthermore, I have demonstrated my analytical abilities through several personal projects, including revenue forecasting, cross-sell prediction analysis, and telecommunications churn prediction. Overall, I am a problem-solver and an excellent communicator, with a passion for using data to drive business decisions.
-  <br><br>
-  <a href="https://www.linkedin.com/in/andrainew/">View My LinkedIn Profile</a>
+Data-driven professional experienced in project management, data analytics, and business intelligence. Demonstrated analytical abilities in data acquisition, cleaning, mining, revenue forecasting, predictive modeling, and sentiment analysis using machine learning algorithms. Strong problem-solving and communication skills, with a passion for using data to drive business decisions.
+<br><br>
+Technical skills and tools include SQL, Python, Machine Learning, Project Management, Microsoft Office, Tableau, Jupyter Lab, Google Colab, and GitHub.
+<br><br>
+<a href="https://www.linkedin.com/in/andrainew/">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
