@@ -16,7 +16,7 @@
 
 ### [Revenue Forecast - Time Series](https://github.com/zibba101/Revenue_Forecast_TimeSeries)
 
-<img src="images/20945567.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 ### [Churn Data Mining](https://github.com/zibba101/Churn_Data_Mining)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/contextualad_4.jpg?raw=true"/>
 
 ---
 
