@@ -31,7 +31,7 @@
 
 ---
 
-#Other Projects
+###Other Projects
 
 ### [Telecom Data Acquisition](https://github.com/zibba101/Data_Acquisition)
 
