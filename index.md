@@ -14,7 +14,7 @@
 
 ### [Retail Inventory Analysis - Tableau](https://public.tableau.com/views/RetailInventoryAnalysis/Story-InventoryAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-<img src="images/contextualad_4.png?raw=true"/>
+<img src="images/RIA.png?raw=true"/>
 
 ---
 
