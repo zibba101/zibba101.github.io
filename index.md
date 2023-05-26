@@ -3,7 +3,7 @@
 ---
 ### [Hospital Emergency Room Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/Hospital_ER_Dashboard_RWFD/Dashboard1#1)
 
-<img src="images/HERD.png?raw=true"/>
+<img src="images/HERD2.png?raw=true"/>
 
 ---
 ### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
