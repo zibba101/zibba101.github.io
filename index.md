@@ -3,7 +3,7 @@
 ---
 ### [Hospital Emergency Room Dashboard](https://public.tableau.com/app/profile/andraine.wallace/viz/Hospital_ER_Dashboard_RWFD/Dashboard1#1)
 
-<img src="images/HERD2.png?raw=true"/>
+<img src="images/HERD2.png?raw=true" width="600" height="800"/>
 
 ### Delivr Eatery SQL Data Analysis
 <embed src="pdf/Delivr_Eatery_SQL_Data_Analysis.pdf" width="600" height="800" type="application/pdf">
