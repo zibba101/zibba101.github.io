@@ -5,6 +5,12 @@
 
 <img src="images/HERD2.png?raw=true"/>
 
+### [Delivr Eatery SQL Data Analysis]
+<embed src="pdf/Delivr_Eatery_SQL_Data_Analysis.pdf" width="600" height="800" type="application/pdf">
+
+<img src="images/HERD2.png?raw=true"/>
+
+
 ---
 ### [Sentiment Analysis of Amazon, IMDB and Yelp Reviews](https://github.com/zibba101/SentimentAnalysis_NN_NLP)
 
