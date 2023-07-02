@@ -6,7 +6,7 @@
 <img src="images/HERD2.png?raw=true"/>
 
 ### Delivr Eatery SQL Data Analysis
-<embed src="pdf/Delivr_Eatery_SQL_Data_Analysis.pdf" width="600" height="800" type="application/pdf">
+<embed src="pdf/Delivr_Eatery_SQL_Data_Analysis.pdf" width="500" height="600" type="application/pdf">
 
 
 ---
